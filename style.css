@@ -9,7 +9,7 @@
     color: #795548;
 }
 body{
-    background: url('../assets/banner/procat1.jpg') no-repeat;
+    background: url('procat1.jpg') no-repeat;
     background-color: black;
     background-position: center;
     background-size: cover;
